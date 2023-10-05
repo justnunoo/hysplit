@@ -1,0 +1,7 @@
+installer
+xlrd
+future
+openpyxl
+pandas
+selenium
+retry
